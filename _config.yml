@@ -1,28 +1,40 @@
-name: ifuckingloveamsterdam
-favicon: null
-layout_spectrum: 0.4746837767306715
-typography_spectrum: 0.5433938074856997
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.28529256768524647
-  lightness: 0.7176059470511973
-  saturation: 0.5072876440826803
-  rhythmicContrast: 0.4277480337768793
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8320802
+  brandStrength: 0.3182957
+  lightness: 0.8759398
+  brandColors:
+    - '#FFFFFF'
+    - '#221F20'
+    - '#8F8D8D'
+    - '#CFCFCF'
+    - '#747373'
+  rhythmicContrast: 0.8646616
+typography_spectrum: 0.5433938074856997
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.495614
+favicon: null
+name: ifuckingloveamsterdam
