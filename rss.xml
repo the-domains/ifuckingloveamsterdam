@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ifuckingloveamsterdam]]></title>
         <description><![CDATA[ifuckingloveamsterdam]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ifuckingloveamsterdam/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sun, 10 Jul 2016 02:53:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/ifuckingloveamsterdam/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I FUCKING LOVE AMSTERDAM</p>]]></description>
+            <link>https://thegrid.ai/ifuckingloveamsterdam/i-fucking-love-amsterdam/index.html</link>
+            <guid isPermaLink="false">5ac9e01d-a2ed-4d2f-bf52-ca3ca3cb7ce0</guid>
+            <pubDate>Sun, 10 Jul 2016 02:53:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e332bbd6-e36a-4e23-926c-234226e2c3be.jpg">]]></description>
-            <link>undefined40d4ff8f-213a-4101-9f82-9ac75f651f2d/index.html</link>
+            <link>https://thegrid.ai/ifuckingloveamsterdam/40d4ff8f-213a-4101-9f82-9ac75f651f2d/index.html</link>
             <guid isPermaLink="false">40d4ff8f-213a-4101-9f82-9ac75f651f2d</guid>
             <pubDate>Sun, 10 Jul 2016 02:53:17 GMT</pubDate>
         </item>
